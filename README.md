@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="1.png" alt="Background Image" style="opacity: 0.2; width: 100%;">
+</div>
+
 # Pizza Sales Data Analysis
 
 ## Project Description
